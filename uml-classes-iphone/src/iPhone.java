@@ -9,8 +9,8 @@ class iPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet
         iphone.selecionarMusica();
         iphone.tocar();
         iphone.pausar();
-        iphone.exibirPagina("www.example.com");
-        iphone.adicionarNovaAba("www.example2.com");
+        iphone.exibirPagina("www.exemplo.com");
+        iphone.adicionarNovaAba("www.exemplo3.com");
         iphone.atualizarPagina();
     }
 
